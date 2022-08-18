@@ -5,8 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Application"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="700"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="55"/>
+            <ColumnDefinition Width="3*" MinWidth="200" MaxWidth="500"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
 
+        <Grid Grid.Column="0" Background="#293A4C">
+            <StackPanel>
+                <TextBlock FontSize="10" Height="40" ></TextBlock>
+
+                <TextBlock FontSize="12" Height="40" FontWeight = "DemiBold" Text="    💬 &#x0a;All chats" Padding="5"></TextBlock>
+                <TextBlock FontSize="12" Height="40" FontWeight = "DemiBold" Text="    👥 &#x0a;Groups" Padding="5"></TextBlock>
+                <TextBlock FontSize="12" Height="40" FontWeight = "DemiBold" Text="   👤&#x0a;Private" Padding="5"></TextBlock>
+
+            </StackPanel>
+        </Grid>
+
+
+        <Grid Grid.Column="1" Background="#17212B">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            
+            <Grid Grid.Row="0">
+                <TextBox Name="SearchText"
+                         Margin="11" Background="#242F3D"
+                         Padding="6" Foreground="Snow"
+                         md:HintAssist.Hint="Search"
+                         md:TextFieldAssist.UnderlineBrush="Transparent"
+                         BorderThickness="0"/>
+            </Grid>
+
+           
+            <Grid Grid.Row="1">
+                <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Visible">
+                    
+                </ScrollViewer>
+            </Grid>
+
+        </Grid>
+        
+        <GridSplitter Grid.Column="1" Width="3"/>
+
+        <Grid Grid.Column="2">
+            <Grid.Background>
+                <LinearGradientBrush>
+                    
+                </LinearGradientBrush>
+            </Grid.Background>
+        </Grid>
+        
     </Grid>
 </Window>

@@ -1,0 +1,12 @@
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\bin\Debug\net5.0\WPF-App.Domain.deps.json
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\bin\Debug\net5.0\WPF-App.Domain.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\bin\Debug\net5.0\WPF-App.Domain.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.csproj.AssemblyReference.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.AssemblyInfoInputs.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.AssemblyInfo.cs
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.csproj.CoreCompileInputs.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\refint\WPF-App.Domain.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\WPF-App.Domain.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Domain\obj\Debug\net5.0\ref\WPF-App.Domain.dll

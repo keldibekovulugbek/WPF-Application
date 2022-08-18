@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WPF-Application/1.0.0": {
+        "dependencies": {
+          "MaterialDesignThemes": "4.5.0"
+        },
+        "runtime": {
+          "WPF-Application.dll": {}
+        }
+      },
+      "MaterialDesignColors/2.0.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.5.0": {
+        "dependencies": {
+          "MaterialDesignColors": "2.0.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF-Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/2.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZNiLlMy7Ag9f3MnhVxSzkG2IIGCaRfqZKt6npEcEjLQ9kSgCYO5oUd8AgJjhpfCKwyf+GO5VDc5R88QSDTHHg==",
+      "path": "materialdesigncolors/2.0.6",
+      "hashPath": "materialdesigncolors.2.0.6.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G26hIGFwGH5q46CD59zGiAs4aLsASsKCCBqgnISPwIcq8pAfKRRAKxXfOQJgNDyIUnVm5Ug67gldsEgeWP6GoQ==",
+      "path": "materialdesignthemes/4.5.0",
+      "hashPath": "materialdesignthemes.4.5.0.nupkg.sha512"
+    }
+  }
+}
