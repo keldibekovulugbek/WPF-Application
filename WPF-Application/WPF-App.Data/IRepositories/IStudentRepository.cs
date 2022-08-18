@@ -7,7 +7,7 @@ using WPF_App.Domain.Entities.Users;
 
 namespace WPF_App.Data.IRepositories
 {
-    public interface IStudentRepository: IGenericRepository<Student>
+    public interface IStudentRepository : IGenericRepository<Student>
     {
     }
 }

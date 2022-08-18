@@ -5,4 +5,13 @@
     <RootNamespace>WPF_App.Service</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WPF-App.Data\WPF-App.Data.csproj" />
+    <ProjectReference Include="..\WPF-App.Domain\WPF-App.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

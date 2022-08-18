@@ -8,7 +8,7 @@ using WPF_App.Domain.Entities.Attachments;
 
 namespace WPF_App.Domain.Entities.Users
 {
-    public class Student :Auditable
+    public class Student : Auditable
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

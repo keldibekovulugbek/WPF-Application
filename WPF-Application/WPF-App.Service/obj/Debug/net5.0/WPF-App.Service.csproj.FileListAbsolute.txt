@@ -1,0 +1,5 @@
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.csproj.AssemblyReference.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.AssemblyInfoInputs.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.AssemblyInfo.cs
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.csproj.CoreCompileInputs.cache

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-Application", "WPF-Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-App.Domain", "WPF-App.Domain\WPF-App.Domain.csproj", "{B6325C90-9D2D-4A47-B5C2-2EC40034A7B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-App.Data", "WPF-App.Data\WPF-App.Data.csproj", "{9DE7344F-EA10-4CD2-9594-D9651CF0F6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-App.Service", "WPF-App.Service\WPF-App.Service.csproj", "{9F3B18E6-0159-4CEC-96CC-4F9F89A64D27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B6325C90-9D2D-4A47-B5C2-2EC40034A7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6325C90-9D2D-4A47-B5C2-2EC40034A7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6325C90-9D2D-4A47-B5C2-2EC40034A7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE7344F-EA10-4CD2-9594-D9651CF0F6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE7344F-EA10-4CD2-9594-D9651CF0F6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE7344F-EA10-4CD2-9594-D9651CF0F6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE7344F-EA10-4CD2-9594-D9651CF0F6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3B18E6-0159-4CEC-96CC-4F9F89A64D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3B18E6-0159-4CEC-96CC-4F9F89A64D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3B18E6-0159-4CEC-96CC-4F9F89A64D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3B18E6-0159-4CEC-96CC-4F9F89A64D27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

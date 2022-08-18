@@ -15,6 +15,6 @@ namespace WPF_App.Service.Interfaces
         Task<StudentViewModel> UpdateAsync(StudentViewModel entity);
         Task<StudentViewModel> GetAsync(Expression<Func<Student, bool>> expression);
         Task<IEnumerable<StudentViewModel>> GetAllAsync(Expression<Func<Student, bool>> expression = null, Tuple<int, int> pagination = null);
-        Task<bool> DeleteAsync(Expression<Func<Student, bool>> expression);
+        Task<bool> DeleteAsync(int id);
     }
 }

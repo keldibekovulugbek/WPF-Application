@@ -15,6 +15,7 @@ namespace WPF_App.Data.Contexts
         {
             string connectionString = "Host=localhost;Port=5432;Database=WPF-Application;Username=postgres;Password=12042003";
             optionsBuilder.UseNpgsql(connectionString);
+
         }
 
         public virtual DbSet<Student> Students { get; set; }
