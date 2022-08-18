@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-Application\App.xaml
-2-1272082083
+5-720651888
 
-6-1126998863
+9-1191673724
 195-403305807
-MainWindow.xaml;UI\HamburgerMenu\HamburgerMenu.xaml;
+MainWindow.xaml;UI\Pages\Add.xaml;UI\Pages\Delete.xaml;UI\Pages\Save.xaml;UI\UserControls\HamburgerMenu.xaml;
 
-False
+True
 

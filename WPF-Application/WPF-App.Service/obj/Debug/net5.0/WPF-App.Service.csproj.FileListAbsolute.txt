@@ -3,3 +3,15 @@ G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\D
 G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.AssemblyInfoInputs.cache
 G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.AssemblyInfo.cs
 G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.csproj.CoreCompileInputs.cache
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Service.deps.json
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Service.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Service.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Data.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Domain.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Data.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\bin\Debug\net5.0\WPF-App.Domain.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.csproj.CopyComplete
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\refint\WPF-App.Service.dll
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\WPF-App.Service.pdb
+G:\Programming\C# Projects\WPF-Application\WPF-Application\WPF-App.Service\obj\Debug\net5.0\ref\WPF-App.Service.dll

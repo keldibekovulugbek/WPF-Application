@@ -49,4 +49,4 @@ namespace WPF_App.Data.Repositories
         public Task SaveAsync() => dbContext.SaveChangesAsync();
     }
 }
-}
+

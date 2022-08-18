@@ -7,7 +7,7 @@ using WPF_App.Domain.Common;
 
 namespace WPF_App.Domain.Entities.Attachments
 {
-    public class Attachment
+    public class Attachment : Auditable
     {
         public string Name { get; set; }
         public string Path { get; set; }
